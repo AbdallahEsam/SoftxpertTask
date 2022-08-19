@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SoftxpertTask
+
+  Created by Macintosh on 18/08/2022.
+  
+*/
+"sorry" = "Oops..! Sorry";
+"no_search_result" = "No Search result";
+"error" = "Error";
+"cannot_decode" = "Cannot decode";
+"no_internet" = "No internet";
+"error_401" = "Token expire";
+"error_500" = "Internal server error";
+"timeout_Error" = "timeOut";
+"success" = "Success";
+"warning" = "Warning";
+"search_recipe_title" = "Recipes Search";
+"recipe_details_title" = "Recipes Details";
